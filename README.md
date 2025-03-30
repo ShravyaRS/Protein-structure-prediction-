@@ -20,5 +20,7 @@ This project demonstrates how to **download and analyze** protein structures usi
 ## 📂 Files in This Repository  
 - `8WIX.pdb` → Protein structure file  
 - `protein_structure.py` → Python script for PDB analysis  
-- `README.md` → Project documentation
+- `README.md` → Project documentation  
 
+## 📜 License  
+This project is for educational purposes only.
