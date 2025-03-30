@@ -1,4 +1,4 @@
-# Protein-structure-prediction-
+# Protein-structure-prediction
 # 🧬 Protein Structure Prediction with Python  
 
 This project demonstrates how to **download and analyze** protein structures using **Python & BioPython**.  
